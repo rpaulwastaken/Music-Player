@@ -18,7 +18,7 @@ public:
 };
 
 MusicPlayer::musicQueue *head = nullptr, *tail = nullptr, *curr = nullptr, *temp = nullptr;
-string MusicPlayer::MusicDir = "/home/paul/Downloads/Playlist";
+string MusicPlayer::MusicDir = "./Playlist";
 
 void MusicPlayer::availableSongs() {
     DIR *dir;
