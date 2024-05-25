@@ -30,5 +30,5 @@ Then run the output file using:
 1. Add desired music to the playlist.
 2. Run the code and select the option to Queue the music.
 3. Queue the music by entering the names of the tracks, separated by a whitespace.
-4. Hit enter and select the option to start the queue, after which you will be greeted by the other options (Next, Previous, Pause, Resume, Shuffle, Stop), which you can use as you wish.
+4. Hit enter and select the option to start the queue, after which you will be greeted by the other options (Next, Previous, Pause, Resume, Shuffle, Stop), which you can use as per your requirement.
 5. Enjoy!
