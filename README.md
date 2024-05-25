@@ -1,4 +1,4 @@
-# Note: This code is written to run on Linux Systems only.
+## Note: This code is written to run on Linux Systems only.
 # Installation
 Open your desired directory in your terminal and run the following.
 ```
